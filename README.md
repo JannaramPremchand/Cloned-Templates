@@ -7,6 +7,7 @@ Welcome to the Cloned Templates repository! This repository contains a collectio
 
 Here is a list of the templates available in this repository:
 
+## 1st_50_Templates
 
 1. **Glowing Button Effect**
 2. **Email Signup Form**
@@ -58,6 +59,9 @@ Here is a list of the templates available in this repository:
 48. **Corporate Template**
 49. **Auto Mobile Template**
 50. **Car Repair Template**
+
+## 2nd_50_Templates
+
 51. **Automobile Template**
 52. **City Square Template**
 53. **Hosting Service Template**
@@ -108,6 +112,9 @@ Here is a list of the templates available in this repository:
 98. **Corporate Template**
 99. **Portfolio Template**
 100. **Restaurant Template**
+
+## 3rd_50_Templates
+
 101. **Icon Fonts Template**
 102. **Google Template**
 103. **Industry Business Template**
@@ -158,6 +165,9 @@ Here is a list of the templates available in this repository:
 148. **Zero Template**
 149. **Zesty Template**
 150. **Zstyle Template**
+
+## 4th_50_Templates
+
 151. **Web Template 123**
 152. **Bootstrap Template 456**
 153. **HTML5 Template 789**
